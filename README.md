@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Arthur 👋
 
-<!--
-**Arthursaliz/Arthursaliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Engenharia de Software na UFNT** (Araguaína-TO).
+Este perfil é o meu espaço de estudos: aqui registro o que estou aprendendo ao longo do curso.
 
-Here are some ideas to get you started:
+### 🛠️ Estudando e usando
+Python · PHP · SQL (Oracle/MySQL) · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Foco atual
+- Fundamentos de programação e lógica
+- Boas práticas: versionamento, organização de código e documentação
+- Banco de dados e SQL
+
+### 📫 Contato
+[LinkedIn](https://linkedin.com/in/arthurlimadev)
