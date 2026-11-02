@@ -1,6 +1,6 @@
 # Olá, eu sou o Arthur 👋
 
-Estudante de **Engenharia de Software na UFNT** (Araguaína-TO).
+Estudante de **Engenharia de Software na UFNT** (Tocantins / Brasil).
 Este perfil é o meu espaço de estudos: aqui registro o que estou aprendendo ao longo do curso.
 
 ### 🛠️ Estudando e usando
